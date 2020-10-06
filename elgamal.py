@@ -2,6 +2,7 @@
 #Author: Ryan Riddle (ryan.riddle@uky.edu)
 #Date of Completion: April 20, 2012
 
+
 #DESCRIPTION AND IMPLEMENTATION
 #
 #This python program implements the ElGamal cryptosystem.  The program is capable of both
